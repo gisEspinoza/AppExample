@@ -1,0 +1,22 @@
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\bin\Debug\exampleAPP.exe.config
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\bin\Debug\exampleAPP.exe
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\bin\Debug\exampleAPP.pdb
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.csprojAssemblyReference.cache
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.EmployeeForm.resources
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.Form1.resources
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.Properties.Resources.resources
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.csproj.GenerateResource.cache
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.csproj.CoreCompileInputs.cache
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.exe
+C:\Users\Gisela\source\repos\exampleAPP\exampleAPP\obj\Debug\exampleAPP.pdb
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\bin\Debug\exampleAPP.exe.config
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\bin\Debug\exampleAPP.exe
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\bin\Debug\exampleAPP.pdb
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.csprojAssemblyReference.cache
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.EmployeeForm.resources
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.Form1.resources
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.Properties.Resources.resources
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.csproj.GenerateResource.cache
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.csproj.CoreCompileInputs.cache
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.exe
+C:\Users\Gisela\source\repos\exampleAPP - Copy\exampleAPP\obj\Debug\exampleAPP.pdb
